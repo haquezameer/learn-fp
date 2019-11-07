@@ -11,7 +11,7 @@ Currying is a way to apply inputs(i.e) data required by a function partially(ste
 For example:-
 
 ```js
-const divideBy2 = num => num * 2;
+const multiplyBy2 = num => num * 2;
 ```
 
 A long time from now you need another func multiplyBy3, what would I do?
