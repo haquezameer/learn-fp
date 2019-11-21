@@ -1,5 +1,5 @@
 # learn-fp
-A repository with links and learning resources and my own personal understandings of FP. You can correct me anytime I am wrong by filing an Issue or a PR. You can also call me out on twitter or DM me there: https://twitter.com/haquezameer.
+A repository with links and learning resources and my own personal understandings of FP. You can correct me anytime I am wrong by filing an Issue or a PR. You can also connect with me on twitter : https://twitter.com/haquezameer.
 
 Example code in JS
 
